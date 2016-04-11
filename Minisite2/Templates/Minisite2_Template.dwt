@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../CSS/Globalstyles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1 id="Banner"> Training Zone</h1>
+<h1 id="Nav_Bar"><table width="365" border="1">
+  <tbody>
+    <tr>
+      <td><a href="../Index.html">Home</a>&nbsp;</td>
+      <td>Products&nbsp;</td>
+      <td>Support&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+ </h1>
+<!-- TemplateBeginEditable name="Content" -->
+<h1 id="Content">This is content</h1>
+<!-- TemplateEndEditable -->
+<h1 id="Footer"> This is Footer</h1>
+</Body>
+</html>

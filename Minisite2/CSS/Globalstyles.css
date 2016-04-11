@@ -1,0 +1,57 @@
+@charset "utf-8";
+#Banner {
+	background-color: #B07172;
+	background-image: url(../Images/21816_7361.jpg);
+	background-origin: padding-box;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	background-size: auto
+%;
+	background-repeat: no-repeat;
+	background-size: 100% 126%;
+	max-width: 102%;
+	max-height: 86%;
+	width: 853px;
+	height: 160px;
+}
+#Nav_Bar {
+	background-color: #7A8FC9;
+}
+#Content {
+	background-color: #A48BC7;
+}
+#Footer {
+	background-color: #86CCBA;
+}
+body {
+	background-color: #DC7C82;
+}
